@@ -1,3 +1,3 @@
-export function add() {
+export function adds() {
   console.log("adding");
 }
